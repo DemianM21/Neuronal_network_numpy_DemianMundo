@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+# Ignorar el entorno virtual
+env/
+venv/
+*/env/
+*/venv/
+
+# Ignorar cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración local
+*.local
+*.env
+=======
+# Ignorar el entorno virtual
+env/
+venv/
+*/env/
+*/venv/
+
+# Ignorar cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración local
+*.local
+*.env
+>>>>>>> 870fc325f3958f0f8b2df3608b257be75ff17186
